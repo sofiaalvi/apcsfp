@@ -1,4 +1,4 @@
-public class Hello {
+
 import java.util.HashMap;
 
 public class Main {
@@ -37,5 +37,4 @@ public class Main {
             }
         }
     }
-}
 }
