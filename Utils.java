@@ -17,7 +17,6 @@ public class Utils {
       try {
         String numStr = scan.nextLine();
         num = Integer.parseInt(numStr);
-        num = 1;
       } catch (Exception e) {
         num = -1;
       }
